@@ -8,6 +8,18 @@
 
 Java client for the [kubernetes](https://kubernetes.io/) API.
 
+## Target User
+
+This library is designed for:
+
+- **Java Developers**: Developers who are building applications using Java and need to interact with Kubernetes clusters programmatically.
+- - **DevOps Engineers**: Engineers who want to automate Kubernetes operations and management tasks using Java-based tools.
+  - - **Application Developers**: Developers who need to integrate Kubernetes functionality into their Java applications, such as deploying, scaling, and managing containerized applications.
+    - - **Platform Engineers**: Engineers building internal platforms or tools that require Kubernetes API integration.
+     
+      - Whether you're building CI/CD pipelines, monitoring tools, custom controllers, or any application that needs to communicate with Kubernetes, this client library provides a type-safe and easy-to-use Java interface to the Kubernetes API.
+      - 
+
 ## To start using Kubernetes Java Client
 
 See the wiki page and documentation [here](https://github.com/kubernetes-client/java/wiki).
